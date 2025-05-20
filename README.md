@@ -14,6 +14,11 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
+View the ERD Diagram Schema
+ ![ERD Schema](https://github.com/Yashaswini-01/Amazon_Sales_Analysis/blob/main/ERD_Image.png)
+
+---
+
 ## **Database Setup & Design**
 
 ### **Schema Structure**
@@ -707,8 +712,6 @@ call add_sales
 (
 25005, 2, 5, 25004, 1, 14
 );
-
----
 
 ---
 
