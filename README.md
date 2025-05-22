@@ -1,6 +1,6 @@
 # 📚 Amazon Sales Analysis & Customer Insights Project
 
-<img src="Amazon Logo.png" alt="Amazon Logo" width="120"/>
+<img src="Amazon Logo.png" alt="Amazon Logo" width="720"/>
 ---
 
 ## 🚀 Project Overview  
@@ -9,7 +9,11 @@ This comprehensive data analytics project focuses on Amazon's e-commerce ecosyst
 ---
 
 ## 👉 Explore the Project Here  
-🔗 **[Interactive Power BI Dashboard - Live Demo](#)** *(https://app.powerbi.com/reportEmbed?reportId=06cbe5c9-92e5-4d36-89ae-a392b8cd0f2d&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)*
+
+<img src="Power BI Dashboard Image.png" alt="Screenshot" width="600"/>
+
+🔗 **[Interactive Power BI Dashboard - Live Demo](https://app.powerbi.com/reportEmbed?reportId=06cbe5c9-92e5-4d36-89ae-a392b8cd0f2d&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)**
+
 
 ---
 
